@@ -5,9 +5,9 @@ authors = ["pablopunk <pablovarela182@gmail.com>"]
 
 [dependencies]
 dotenv = "0.13.0"
-rocket = "0.3.6"
-rocket_codegen = "0.3.6"
-bson = "0.1.3"
+rocket = "0.3.16"
+rocket_codegen = "0.3.16"
+bson = "0.13.0"
 mongodb = "0.3.10"
 
 [dependencies.rocket_contrib]
