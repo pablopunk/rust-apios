@@ -1,6 +1,10 @@
 {
-   "public": true,
-   "features": {
-      "cloud": "v2"
-   }
+   "name": "apios",
+   "version": 2,
+   "builds": [
+      {
+         "src": "Cargo.toml",
+         "use": "@now/rust"
+      }
+   ]
 }
